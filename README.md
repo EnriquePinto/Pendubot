@@ -8,5 +8,5 @@ Some of my personal comments on this one:
 - The stabilizer is a Linear Quadratic Regulator designed from the model linearized around the linearized upright state
 - Every result comes from ideal simulation only, that means that the controller in its present iteration would need significant tweaking in a practical implementation to achieve some satisfying result, or it may not even work at all. This is, as I see it, a major consequence of the poor swing-up design (but come on, I only had one week)
 - My local folder for this project was unironically a mess, I salvaged what I could from the files and posted them here
-- My report for this project is in the pdf file, in Portuguese
+- My report for this project is in the "trabalho_pendubot.pdf" file, in Portuguese
 
